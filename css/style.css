@@ -246,11 +246,6 @@ span{
     #newsletter{
         height: 50vh;
     }
-    #newsletter .news-sub{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
     #showcase {
         padding: 2rem 0;
     }
